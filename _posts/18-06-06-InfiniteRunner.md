@@ -10,6 +10,4 @@ First theme was Infinite Runner.</p>
 <br></br>
 <p>
 Showcase of Gameplay:</p>
-<iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=a5JYRkXkzVg">
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=a5JYRkXkzVg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
