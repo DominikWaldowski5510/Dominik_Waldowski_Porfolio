@@ -9,5 +9,7 @@ For this module a new theme would be picked every 4 weeks and new game greybox w
 First theme was Infinite Runner.</p>
 <br></br>
 <p>
-Showcase of Gameplay:</p>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=a5JYRkXkzVg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+The gameplay can be seen at: 
+  https://www.youtube.com/watch?v=a5JYRkXkzVg
+  </p>
+
