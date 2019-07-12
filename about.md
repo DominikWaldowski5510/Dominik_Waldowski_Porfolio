@@ -3,10 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-<h1 class="post-title">About</h1>
-  </header>
-
   <div class="post-content">
     <p>My name is Dominik Waldowski. I studied Computer Games Technology at <a href="https://aru.ac.uk/">Anglia Ruskin University</a> graduating October 2019.
 	This website purpose is my digital logbook documenting my progress as programmer.</a>
