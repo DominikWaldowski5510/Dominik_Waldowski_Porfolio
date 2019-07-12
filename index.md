@@ -1,13 +1,6 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-<!DOCTYPE html>
-<html lang="en"><head>
-<head>
-  <title>Dominik Waldowski Porfolio</title>
-  </head>
-  <body>
-  <p> hello</p>
-  </body>
-  </html>
-
-  
-  
+layout: home
+---
