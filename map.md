@@ -16,7 +16,7 @@ permalink: /map/
 <li>Weather Game | Unity | University Assignment </li>
 <li>Tower Defence | Unity | University Assignment</li>
 <li>OverPowered | Unity | Internal University Game Jam</li>
-<li>Infinite Runner | Unity | University Assignment</li>
+<li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2018/06/06/InfiniteRunner.html">Infinite Runner | Unity | University Assignment</a></li>
 <h2>2017</h2>
 <ul>
   <li>Descent Journey to the Dark | Unity | University Assignment </li>
