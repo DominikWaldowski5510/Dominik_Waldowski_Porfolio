@@ -6,7 +6,7 @@ permalink: /map/
 
 <h1>Progress Road Map</h1>
 
-<h2<2019></h2>
+<h2>2019</h2>
 
 <h2>2018</h2>
 
