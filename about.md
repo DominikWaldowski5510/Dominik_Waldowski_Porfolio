@@ -9,7 +9,7 @@ permalink: /about/
 <h1 class="post-title">What I do</h1>
 <p> I have programmed several games as part of my University studies. Majority of modules required me to produce a game with time span of 12 weeks.
 I participated in several game jams most notably <a href="http://www.brainseden.net/">Brains Eden 2019</a>.</p>
-<p>My porfolio can be found at <a href="">here</a>. Feel free to also check out my learning progress <a href="">here</a>.</p>
+<p>My porfolio can be found at <a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/">here</a>. Feel free to also check out my learning progress <a href="">here</a>.</p>
 <!--<h1 class="post-title">Experience</h1>-->
 
 <h1 class="post-title">What I do in spare time</h1>
