@@ -24,7 +24,6 @@ permalink: /cv/
 	<li>Learned how to use html,css,php and javascript</li>
 	<li>Understood how to use mysql and access for database</li>
 	</ul>
-	
 	    <h2 class="post-title">Work Experience</h2>
           <h4 class="post-title"><u>Assitant Researcher</u></h4>
     <p>Anglia Ruskin University 2018 Summer</p>
@@ -32,7 +31,6 @@ permalink: /cv/
 	<li>Researched Amblyopia and means of detecting it amongst children.</li>
 	<li>Designed and developed a mobile game that tested for amblyopia level within the eye.</li>
 	</ul>
-	
 		  <h2 class="post-title">Technical Skills</h2>
 		  <p><b>Computer Languages </b></p>
 		  <ul>
