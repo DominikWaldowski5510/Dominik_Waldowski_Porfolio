@@ -4,7 +4,9 @@ title:  "On the Menu"
 Date: 19-07-12 16:40:59 
 categories: Porfolio Update
 ---
-
+<p>
+<h2><b>Game Showcase</b></h2>
+https://www.youtube.com/watch?v=57RWvR4RcjA</p>
 <p>
 <h1><b>About</b></h1>
 <h2><b>Title</b></h2>
@@ -23,7 +25,3 @@ The game had slight issues of detecting collision which was later fixed.
 
 </p>
 
-<br></br>
-<p>
-<h2><b>Game Showcase</b></h2>
-https://www.youtube.com/watch?v=57RWvR4RcjA</p>
