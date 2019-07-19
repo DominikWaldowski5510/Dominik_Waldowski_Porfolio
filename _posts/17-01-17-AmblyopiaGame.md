@@ -5,6 +5,9 @@ Date: 19-07-12 16:40:59
 categories: Porfolio Update
 ---
 <p>
+<h2><b>Game Showcase</b></h2></p>
+<p>Link Will be added in future!</p>
+<p>
 <h1><b>About</b></h1>
 <h2><b>Title</b></h2>
 Ambylopia Game
@@ -24,7 +27,3 @@ After designing the game and coming up with several concepts it was decided to u
 The game stored variety of data this data was saved in excel format as well as sent to email as an extra copy. At the end of the 2 months the game was given to lead researcher to test it on live participants.
 </p>
 
-<br></br>
-<p>
-<h2><b>Game Showcase</b></h2></p>
-<p>Link Will be added in future!</p>
