@@ -13,7 +13,7 @@ Cart N Collect Mobile
 <h2><b>Engine/Language</b></h2>
 Unity Engine 2018, Visual Studio C#
 <h2><b> Description/Aim</b></h2>
-Create a mobile game that is <b>Hyper Casual</br> as part of Mobile Technology module
+Create a mobile game that is <b>Hyper Casual</b> as part of Mobile Technology module
 <h3>Development Duration</h3>
 12 weeks, semester 2 year 3
 <h1><b>Development Log</b></h1>
