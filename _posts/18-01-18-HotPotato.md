@@ -5,6 +5,9 @@ Date: 19-07-12 16:40:59
 categories: Porfolio Update
 ---
 <p>
+<h2><b>Game Showcase</b></h2></p>
+<p>Will be added in future!</p>
+<p>
 <h1><b>About</b></h1>
 <h2><b>Title</b></h2>
 Hot Potato
@@ -24,7 +27,4 @@ I was doing majority of bug fixes in all code areas alongside another programmer
 The game was later pitched to code masters as well as few other industry judges that came to judge the games.
 </p>
 
-<br></br>
-<p>
-<h2><b>Game Showcase</b></h2></p>
-<p>Will be added in future!</p>
+
