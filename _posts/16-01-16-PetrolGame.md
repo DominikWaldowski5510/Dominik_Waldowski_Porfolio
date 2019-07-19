@@ -11,7 +11,7 @@ Petrol Station Game
 <h2><b>Engine/Language</b></h2>
 Visual Studio C#
 <h2><b> Description/Aim</b></h2>
-Produce console based game where cars fuel their vehicles at petrol station. Consider different types of fuel like diesel and petrol with different types of cars.
+Produce console based game where cars fuel their vehicles at petrol station. Consider different types of fuel like diesel and petrol with different types of cars. This project was part of "Introduction to c#" module at University.
 <h3>Development Duration</h3>
 12 weeks, Semester 1 of year 1
 <h1><b>Development Log</b></h1>
