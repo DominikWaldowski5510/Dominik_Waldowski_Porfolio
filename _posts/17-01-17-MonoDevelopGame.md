@@ -5,6 +5,10 @@ Date: 19-07-12 16:40:59
 categories: Porfolio Update
 ---
 <p>
+<h2><b>Game Showcase</b></h2></p>
+<p>Will be added in future!</p>
+
+<p>
 <h1><b>About</b></h1>
 <h2><b>Title</b></h2>
 Mono Develop Space Aggressor like Game
@@ -23,8 +27,4 @@ This was very fresh experience as this is the first time I came in contact with 
 
 </p>
 
-<br></br>
-<p>
-<h2><b>Game Showcase</b></h2></p>
-<p>Will be added in future!</p>
 
