@@ -5,6 +5,9 @@ Date: 16-07-16 16:40:59
 categories: Porfolio Update
 ---
 <p>
+<h2><b>Game Showcase</b></h2>
+https://www.youtube.com/watch?v=DqrbHGBnTPE</p>
+<p>
 <h1><b>About</b></h1>
 <h2><b>Title</b></h2>
 Before The Bell
@@ -24,7 +27,4 @@ This game served as great practice to understand fundamental features of game en
 
 </p>
 
-<br></br>
-<p>
-<h2><b>Game Showcase</b></h2>
-https://www.youtube.com/watch?v=DqrbHGBnTPE</p>
+
