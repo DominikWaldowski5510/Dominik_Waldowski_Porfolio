@@ -12,6 +12,8 @@ Before The Bell
 Unity Engine 2016, Visual Studio C#
 <h2><b> Description/Aim</b></h2>
 The game was created during first semester of University for "Introduction to Unity Engine Module". The aim was to replicate Frogger like arcade game.
+<h3>Development Duration</h3>
+Approx. 12 weeks, first semester of Year 1
 <h1><b>Development Log</b></h1>
 The development of this game started with learning how to use Unity Engine as it was the very first time I came into contact with the game engine. Prior to this the tutor provided us with simple exercise which showed how to use basic features of unity. The game was based on all little tutorials and tasks that tutor provided us with alongside self research.
  
