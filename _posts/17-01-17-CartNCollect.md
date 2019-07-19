@@ -18,7 +18,7 @@ Create a game that focuses on a single mechanic, this was part of Introduction t
 This game started with a lot of prerequisite. I had to create proper design featuring diagrams, psuedocode, gantt charts etc. To fully showcase how the game will work how long it will take and how I will tackle any challenges. The deadline for this was 3 weeks from start.
 <br></br>
 Coming up with concept for a game with single mechanic was rather hard as this was first time I was allowed to do anything I want as long as it followed simple restriction. I was inspired by Mickey Mouse game on Game Watch Nintendo. The game featured Mickey Mouse moving between Chicken hens as eggs were rolling down. The aim was to collect the egg in basket that Mickey was holding before they fall and crack.
-<br</br>
+<br></br>
 I wanted to transform this into a 3D game I chose cave as the  theme as mining chutes were first thing that came into my mind. The Development of this game turned out to be easier than expected I feel like all experience gathered during first semester really helped me produce this game up to high standard. I ended up with grade (A) 97% for this module.
 
 </p>
