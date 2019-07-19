@@ -4,10 +4,25 @@ title:  "Before The Bell"
 Date: 16-07-16 16:40:59 
 categories: Porfolio Update
 ---
-<p>Before the bell was the first Unity game I ever did in Unity Engine. It was during my first year of University.
-The task was to create a frogger like game. The game could have been a complete replica of frogger series but I decided to give it
-a little twist by making it relatable with addition of some dark humour.
-The gameplay can be seen at:
-https://www.youtube.com/watch?v=DqrbHGBnTPE
-The biggest problems encountered with this game was lack of familiarity with the engine.
+<p>
+<h1><b>About</b></h1>
+<h2><b>Title</b></h2>
+Before The Bell
+<h2><b>Engine/Language</b></h2>
+Unity Engine 2016, Visual Studio C#
+<h2><b> Description/Aim</b></h2>
+The game was created during first semester of University for "Introduction to Unity Engine Module". The aim was to replicate Frogger like arcade game.
+<h1><b>Development Log</b></h1>
+The development of this game started with learning how to use Unity Engine as it was the very first time I came into contact with the game engine. Prior to this the tutor provided us with simple exercise which showed how to use basic features of unity. The game was based on all little tutorials and tasks that tutor provided us with alongside self research.
+ 
+The problems encountered within this build was implementing water like in original version of the game. Where player (frog) attempts to avoid cars and jump on logs not to fall into the water.
+The mechanic was entirely removed for this version of the game.
+The concept used for the game replaced frog with students to give the game a slight twist and make it relatable with addition of dark humour.
+This game served as great practice to understand fundamental features of game engine as well as usage of classes in programming.
+
 </p>
+
+<br></br>
+<p>
+<h2><b>Game Showcase</b></h2>
+https://www.youtube.com/watch?v=DqrbHGBnTPE</p>
