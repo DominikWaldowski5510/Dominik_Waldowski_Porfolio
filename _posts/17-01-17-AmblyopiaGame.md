@@ -4,10 +4,6 @@ title:  "Amblyopia Game"
 Date: 19-07-12 16:40:59 
 categories: Porfolio Update
 ---
-<p>
-<h2><b>Game Showcase</b></h2></p>
-<p>Link Will be added in future!</p>
-<p>
 <h1><b>About</b></h1>
 <h2><b>Title</b></h2>
 Ambylopia Game
