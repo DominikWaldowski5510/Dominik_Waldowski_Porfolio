@@ -10,7 +10,8 @@ permalink: /cv/
 	</p>
 	<h1 class="post-title">Education</h1>
 	<h4 class="post-title"><u>BSc in Computer Games Technology</u></h4>
-    <p>Anglia Ruskin University 2016 - 2019</p>
+    <p>Anglia Ruskin University 2016 - 2019 </p>
+	<p>Grade: First Class Honours </p>
 	<ul>
 	<li>Learned how to program in c# and c++</li>
 	<li>Gained Proficiency in use of Unreal Engine and Unity Engine</li>
@@ -19,7 +20,8 @@ permalink: /cv/
 	<li>Participated in several game jams hosted by University</li>
 	</ul>
 	<h4 class="post-title"><u>BTEC Level 3 in Computing</u></h4>
-    <p>College of West Anglia 2012 - 2016</p>
+    <p>College of West Anglia 2014 - 2016 Distinction Distinction Distinction</p>
+	<p>Grade: Distinction Distinction Distinction </p>
 	<ul>
 	<li>Introduced to c# programming and visual studio compiler</li>
 	<li>Learned how to use html,css,php and javascript</li>
