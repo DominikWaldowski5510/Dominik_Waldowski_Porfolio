@@ -20,7 +20,7 @@ permalink: /cv/
 	<li>Participated in several game jams hosted by University</li>
 	</ul>
 	<h4 class="post-title"><u>BTEC Level 3 in Computing</u></h4>
-    <p>College of West Anglia 2014 - 2016 Distinction Distinction Distinction</p>
+    <p>College of West Anglia 2014 - 2016</p>
 	<p>Grade: Distinction Distinction Distinction </p>
 	<ul>
 	<li>Introduced to c# programming and visual studio compiler</li>
