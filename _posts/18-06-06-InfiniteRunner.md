@@ -4,6 +4,9 @@ title:  "Infinite Runner"
 Date: 17-01-01 16:40:59 
 categories: Porfolio Update
 ---
+<p>
+<h2><b>Game Showcase</b></h2></p>
+<p>https://www.youtube.com/watch?v=a5JYRkXkzVg</p>
 <h1><b>About</b></h1>
 <h2><b>Title</b></h2>
 Infinite Runner Greybox
@@ -22,9 +25,6 @@ The challenge of this was to learn about procedural generator and successfully i
 
 </p>
 
-<br></br>
-<p>
-<h2><b>Game Showcase</b></h2></p>
-<p>https://www.youtube.com/watch?v=a5JYRkXkzVg</p>
+
 
 
