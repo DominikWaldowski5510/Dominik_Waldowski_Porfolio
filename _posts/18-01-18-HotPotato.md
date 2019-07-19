@@ -20,7 +20,7 @@ Create a racing game, brief provided by code masters , This was part of Game Des
 <h1><b>Development Log</b></h1>
 This game started of with getting into groups as this was another group project. The group for this project was the same that was in the Game Jam "Enemy in the Dark". The only difference was 1 different programmer and 1 extra artist.
 <br></br>
-The concept for this game was a simple party game of hot potato where players chase around the map collecting a ticking bomb. The player who holds the bomb for longest gains more points but if bomb explodes while player holds it he loses all points he gained while holding it. The bomb would change colour to signify that its about to explode. So it was a game of run and chase a hot potato.<br></br>
+The concept for this game was a simple party game of hot potato where players chase around the map collecting a ticking bomb. The player who holds the bomb for longest gains more points but if bomb explodes while player holds it he loses all points he gained while holding it. The bomb would change colour to signify that its about to explode.<br></br>
 In the game I worked fully on Powerups, animations, controller support, customisable input, I worked slightly on cameras, UI and AI to incorporate proper inputs as well as braking for the cars.
 I was doing majority of bug fixes in all code areas alongside another programmer.
 <br></br>
