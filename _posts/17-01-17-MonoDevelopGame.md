@@ -6,7 +6,7 @@ categories: Porfolio Update
 ---
 <p>
 <h2><b>Game Showcase</b></h2></p>
-<p>https://youtu.be/PL38p_ouEIw</p>
+<p><a href="https://youtu.be/PL38p_ouEIw">https://youtu.be/PL38p_ouEIw</a></p>
 
 <p>
 <h1><b>About</b></h1>
