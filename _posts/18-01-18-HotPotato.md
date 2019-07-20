@@ -10,7 +10,7 @@ categories: Porfolio Update
 <p>
 <h1><b>About</b></h1>
 <h2><b>Title</b></h2>
-Hot Potato
+Stuck To Death
 <h2><b>Engine/Language</b></h2>
 Unity Engine 2018, Visual Studio C#
 <h2><b> Description/Aim</b></h2>
