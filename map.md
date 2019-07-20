@@ -12,7 +12,7 @@ permalink: /map/
 <li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2019/01/19/CartNCollectMobile.html">Mobile Cart N Collect | Unity | University Assignment </a></li>
 <h2>2018</h2>
 <li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2018/01/18/StrategyGame.html">Strategy Game | Unity | University Assignment</a></li>
-<li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2018/01/18/HotPotato.html">Hot Potato | Unity | University Assignment </a></li>
+<li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2018/01/18/HotPotato.html">Stuck To Death | Unity | University Assignment </a></li>
 <li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2018/01/18/WeatherGame.html">Weather Game | Unity | University Assignment </a></li>
 <li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2018/01/18/TowerDefence.html">Tower Defence | Unity | University Assignment</a></li>
 <li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2018/01/18/OverPowered.html">OverPowered | Unity | Internal University Game Jam</a></li>
