@@ -25,7 +25,6 @@ permalink: /Porfolio/
 <p>Engine/Language: Unity Engine C#</p>
 <p><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2018/01/18/TowerDefence.html">Find Out More!</a></p>
   
-<br></br>
 <h2>Other</h2>
 <p><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/map/">My Development Road Map</a></p>
 <p><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/cv/">See My CV</a></p>
