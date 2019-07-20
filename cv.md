@@ -76,6 +76,6 @@ permalink: /cv/
 		   <p>Polish(Native)</p>
 		   <p>English(Fluent)</p>
 		   <p><b>CV copy</b></p>
-		   <p> Copy of the CV can be found at <a href="">here</a></p>
+		   <p> Copy of the CV can be found at <a href="https://drive.google.com/file/d/1auXm7UqvzAmiE-JU-uUu4kL-tQ5noUIO/view?usp=sharing">here</a></p>
 	</div>
 		   </body>
