@@ -12,10 +12,10 @@ categories: Porfolio Update
 <img src="https://i.imgur.com/lPmq58L.png">
 <p>
 <h2><b>Animation Video Showcase</b></h2>
-
+<a href="https://youtu.be/hVvn9neldpc">https://youtu.be/hVvn9neldpc</a>
 <h2><b>Detailed Progress blog</b></h2>
 <a href="https://dominikwaldowski3dmodelling.blogspot.co.uk/">
-The Blog</a>
+The Blog Link!</a>
 </p>
 <p>
 <h1><b>About</b></h1>
