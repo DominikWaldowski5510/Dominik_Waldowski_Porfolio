@@ -6,17 +6,16 @@ categories: Porfolio Update
 ---
 
 <p>
-<h2><b>Animation Video Showcase</b></h2></p>
-<p><a href="https://youtu.be/hVvn9neldpc”>EEEEE</a></p>
-
-<p>
 <h2><b>Models Showcase</b></h2></p>
 <img src="https://i.imgur.com/gesCQs5.png">
 <img src="https://i.imgur.com/NWTAJsp.png">
 <img src="https://i.imgur.com/lPmq58L.png">
 <p>
-<h2><b>Detailed Progress blog</b></h2>
+<h2><b>Animation Video Showcase</b></h2>
 
+<h2><b>Detailed Progress blog</b></h2>
+<a href="https://dominikwaldowski3dmodelling.blogspot.co.uk/">
+The Blog</a>
 </p>
 <p>
 <h1><b>About</b></h1>
