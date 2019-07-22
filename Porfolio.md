@@ -17,7 +17,7 @@ permalink: /Porfolio/
  <p>Engine/Language: Unity Engine C#</p>
 <p><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2018/01/18/StrategyGame.html">Find Out More!</a></p>
 <h1>Stuck To Death Racing Game Unity</h1>
-<img src="stuck2.PNG" alt="Game Image">	
+<img src="https://i.imgur.com/mOjRIkd.png" alt="Game Image">	
 <p>Engine/Language: Unity Engine C#</p>
 <p><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2018/01/18/HotPotato.html">Find Out More!</a></p>
 <h1>Tower Defence Game Unity</h1>
