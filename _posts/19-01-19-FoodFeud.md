@@ -16,7 +16,7 @@ Unity Engine 2019, Visual Studio C#
 <h2><b> Description/Aim</b></h2>
 Food Fued is a Master degree group project featuring 7 programmers and 8 artists. I work as one of the programmers in the group. The project is currently ongoing.
 <h3>Development Duration</h3>
-48 hours spanning across 3 days with mandotary rest(computers locked after midnight)
+24 weeks (first and second trimester)(ongoing)
 <h1><b>Development Log</b></h1>
 The project started by being given a brief to make a game that is similar to splatoon and bomberman. The group was made of all master students from Games development programming and art side.
 The aim is to produce a highly polished product at the end of the academic year. 
