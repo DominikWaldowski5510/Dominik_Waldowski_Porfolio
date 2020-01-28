@@ -14,4 +14,5 @@ I participated in several game jams most notably <a href="http://www.brainseden.
 
 <h1 class="post-title">What I do in spare time</h1>
 <p> My favorite outdoor activities include archery and swimming. In 2018 I was the club captain of Anglia Ruskin Archery club. I attended various archery competitions throughout my 3 years at University.</p>
-<p> I enjoy playing computer games which is the reason why I followed path of games programmer but I also enjoy reading fantasy light novels</p>
+<p>I enjoy reading light novels, my favorite genres include medieval fantasy and horror. My passion for medieval period does not only extend to books as I am big fan of medieval weapons and castles and armour.</p>
+<p>I picked up programming originally as a hobby but this hobby turned into me pursuing career in this field.</p>
