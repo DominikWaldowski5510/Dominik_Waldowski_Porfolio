@@ -9,6 +9,14 @@ permalink: /cv/
 	I enjoy programming gameplay as well as game systems such as inventory, turn based systems or alike. My final year project (dissertation) was based on AI and machine learning.
 	</p>
 	<h1 class="post-title">Education</h1>
+	<h4 class="post-title"><u>MSc in Computer Games Development</u></h4>
+    <p>Anglia Ruskin University 2019 - 2020 </p>
+	<p>Grade: Pending </p>
+	<ul>
+	<li>Developed stronger game development skills</li>
+	<li>Strengthened my core programming skills</li>
+	<li>Worked in a group of 15 members on a highly polished product.</li>
+	</ul>
 	<h4 class="post-title"><u>BSc in Computer Games Technology</u></h4>
     <p>Anglia Ruskin University 2016 - 2019 </p>
 	<p>Grade: First Class Honours </p>
@@ -76,6 +84,6 @@ permalink: /cv/
 		   <p>Polish(Native)</p>
 		   <p>English(Fluent)</p>
 		   <p><b>CV copy</b></p>
-		   <p> Copy of the CV can be found at <a href="https://drive.google.com/file/d/1auXm7UqvzAmiE-JU-uUu4kL-tQ5noUIO/view?usp=sharing">here</a></p>
+		   <p> Copy of the CV can be found at <a href="https://docs.google.com/document/d/1Y2nu3-lMnwrW-zsZv4EuI3o_-af71Zz0GyRbBfQoGoc/edit?usp=sharing">here</a></p>
 	</div>
 		   </body>
