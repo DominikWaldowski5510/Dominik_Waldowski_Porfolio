@@ -6,7 +6,7 @@ categories: Porfolio Update
 ---
 
 <h2><b>Game Showcase</b></h2>
-<p><a href="</a>Coming Soon!</p>
+<p><a href="">Coming Soon!</a></p>
 <h1><b>About</b></h1>
 <h2><b>Title</b></h2>
 <p>Arena Wars (provisional title)</p>
