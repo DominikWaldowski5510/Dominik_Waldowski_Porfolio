@@ -6,7 +6,14 @@ permalink: /map/
 
 <h1>Programming Progress Road Map</h1>
 
+<h2>2020</h2>
+<li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2019/01/19/DiscordBot.html">Arena Wars | Unity  | University Project </a></li>
+<li><a href="">C# Coding adventure | Visual Studio  | Personal </a></li>
+<li><a href="">C++ Coding adventure | Visual Studio  | Personal </a></li>
 <h2>2019</h2>
+<li><a href="">Splash Dash | Unity | University Project</a></li>
+<li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2019/01/19/AnimalSimulator.html">Animal Simulator | Unity | University Project</a></li>
+<li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2019/01/19/DiscordBot.html">Discord Bot | Visual Studio  | Personal </a></li>
 <li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2019/01/19/2DRPG.html">2D RPG | Unity | University Assignment </a></li>
 <li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2019/01/19/SparkyMobile.html">Sparky Mobile | Unity | Brains Eden International Game Jam</a></li>
 <li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2019/01/19/CartNCollectMobile.html">Mobile Cart N Collect | Unity | University Assignment </a></li>
