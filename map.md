@@ -24,7 +24,6 @@ permalink: /map/
   <li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2017/01/17/CartNCollect.html">CartNCollect | Unity | University Assignment</a></li>
   <li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2017/01/17/AmblyopiaGame.html"> Amblyopia Game | Unity | Work </a></li>
   <li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2017/01/17/MonoDevelopGame.html"> Space Game Arcade | Mono Develop | University Assignment</a></li>
-  </ul>
     <li><a href=""> 3D Models and Animation | Maya | University Assignment</a></li>
   </ul>
 <h2>2016</h2>
