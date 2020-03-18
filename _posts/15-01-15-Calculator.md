@@ -7,6 +7,7 @@ categories: Porfolio Update
 <p>
 <h2><b>Application Showcase</b></h2>
 <a href="https://youtu.be/J-rDFYzfjFM">https://youtu.be/J-rDFYzfjFM</a></p>
+<img src="https://i.imgur.com/xS9X5m4.png">
 <p>
 <h1><b>About</b></h1>
 <h2><b>Title</b></h2>
