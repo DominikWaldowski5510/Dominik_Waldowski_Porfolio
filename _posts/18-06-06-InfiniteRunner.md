@@ -7,6 +7,7 @@ categories: Porfolio Update
 <p>
 <h2><b>Game Showcase</b></h2></p>
 <p><a href="https://www.youtube.com/watch?v=a5JYRkXkzVg">https://www.youtube.com/watch?v=a5JYRkXkzVg</a></p>
+<img src="https://i.imgur.com/kCa8xNB.png">
 <h1><b>About</b></h1>
 <h2><b>Title</b></h2>
 Infinite Runner Greybox
