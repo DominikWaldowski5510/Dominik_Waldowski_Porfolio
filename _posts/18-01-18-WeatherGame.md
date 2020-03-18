@@ -7,7 +7,7 @@ categories: Porfolio Update
 <p><h2><b>Game Showcase</b></h2></p>
 <p><a href="https://youtu.be/hobB83ygos4">https://youtu.be/hobB83ygos4</a></p>
 <img src="https://i.imgur.com/nUQFaKe.png">
-<img src="https://i.imgur.com/U3fjF1c.png">
+<img src="https://i.imgur.com/UAAOgPh.png">
 <img src="https://i.imgur.com/1OpVvUj.png">
 <p>
 <h1><b>About</b></h1>
