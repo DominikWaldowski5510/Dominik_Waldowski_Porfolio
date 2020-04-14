@@ -5,11 +5,11 @@ Date: 19-07-12 16:40:59
 categories: Porfolio Update
 ---
 
-<h2><b>Game Showcase</b></h2>
+<h2><b>Application Showcase</b></h2>
 <p><a href="">Coming Soon!</a></p>
 <h1><b>About</b></h1>
 <h2><b>Title</b></h2>
-<p>Coding Adventure c#</p>
+<p>Random c++ programs</p>
 <h2><b>Language</b></h2>
 <p>C++, Visual Studio</p>
 <h2><b> Description/Aim</b></h2>
