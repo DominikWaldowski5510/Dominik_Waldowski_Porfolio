@@ -7,9 +7,9 @@ permalink: /map/
 <h1>Programming Progress Road Map</h1>
 
 <h2>2020</h2>
-<li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2019/01/19/DiscordBot.html">Arena Wars | Unity  | University Project </a></li>
-<li><a href="">C# Coding adventure | Visual Studio  | Personal </a></li>
-<li><a href="">C++ Coding adventure | Visual Studio  | Personal </a></li>
+<li><a href="https://github.com/DominikWaldowski5510/Dominik_Waldowski_Porfolio/blob/gh-pages/_posts/20-1-20-ArenaWars.md">Arena Wars | Unity  | University Project </a></li>
+<li><a href="https://github.com/DominikWaldowski5510/Dominik_Waldowski_Porfolio/blob/gh-pages/_posts/20-1-20-CodingAdventurec%23.md">C# Coding adventure | Visual Studio  | Personal </a></li>
+<li><a href="https://github.com/DominikWaldowski5510/Dominik_Waldowski_Porfolio/blob/gh-pages/_posts/20-1-20-CodingAdventurec%2B%2B.md">C++ Coding adventure | Visual Studio  | Personal </a></li>
 <h2>2019</h2>
 <li><a href="">Splash Dash | Unity | University Project</a></li>
 <li><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2019/01/19/AnimalSimulator.html">Animal Simulator | Unity | University Project</a></li>
