@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Coding Adventure c#"
+title:  "Coding Adventure c++"
 Date: 19-07-12 16:40:59 
 categories: Porfolio Update
 ---
 
 <h2><b>Game Showcase</b></h2>
-<p><a href="">C++ Coming Soon!</a></p>
+<p><a href="https://www.youtube.com/watch?v=dWYKpDHKGeI&list=PLqWXzpQiUgEJA1vvXh9mXLdlmY7bz5Jlp">C++ Tutorial Series</a></p>
 <h1><b>About</b></h1>
 <h2><b>Title</b></h2>
-<p>Coding Adventure c#</p>
+<p>Coding Adventure c++</p>
 <h2><b>Language</b></h2>
 <p>C++, Visual Studio</p>
 <h2><b> Description/Aim</b></h2>
@@ -26,5 +26,3 @@ categories: Porfolio Update
 <p>This project helps me understand the code on more technical side as I have to know how to verbally explain it.
 </p>
 
-<br></br>
-<p>
