@@ -9,6 +9,8 @@ categories: Porfolio Update
 <p><a href="">Coming Soon!</a></p>
 <h2>Website</h2>
 <p><a href="https://dominikwaldowski.itch.io/arenawars">Arena Wars official Site!</a></p>
+<img src="https://i.imgur.com/5kGTu5i.png">
+<img src="https://i.imgur.com/R4avU8Q.png">
 <h1><b>About</b></h1>
 <h2><b>Title</b></h2>
 <p>Arena Wars (provisional title)</p>
