@@ -6,7 +6,11 @@ categories: Porfolio Update
 ---
 
 <p><h2><b>Game Showcase</b></h2></p>
-<p><a href="https://www.youtube.com/watch?v=7804zlxDiCk">Splash Dash Showcase</a></p>
+<p><a href="https://www.youtube.com/watch?v=7804zlxDiCk">Splash Dash Showcase Youtube Video Link Click Here!</a></p>
+<a href="https://imgur.com/dpHDR7X"><img src="https://i.imgur.com/dpHDR7X.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/H2rllBt"><img src="https://i.imgur.com/H2rllBt.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/16LG8sW"><img src="https://i.imgur.com/16LG8sW.png" title="source: imgur.com" /></a>
+
 <p>
 <h1><b>About</b></h1>
 <h2><b>Title</b></h2>
