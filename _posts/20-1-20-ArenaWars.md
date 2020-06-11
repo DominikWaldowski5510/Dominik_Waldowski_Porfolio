@@ -6,7 +6,7 @@ categories: Porfolio Update
 ---
 
 <h2><b>Game Showcase</b></h2>
-<p><a href="https://www.youtube.com/watch?v=h_sBWEypyRE&t=24s">Arena Wars Shwocase</a></p>
+<p><a href="https://www.youtube.com/watch?v=h_sBWEypyRE&t=24s">Arena Wars Showcase</a></p>
 <h2>Website</h2>
 <p><a href="https://dominikwaldowski.itch.io/arenawars">Arena Wars official Site!</a></p>
 <img src="https://i.imgur.com/5kGTu5i.png">
