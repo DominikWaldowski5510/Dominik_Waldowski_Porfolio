@@ -12,7 +12,8 @@ permalink: /Porfolio/
 <p><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2019/01/19/FoodFeud.html">Find Out More!</a></p>
 
 <h1>Arena Wars Game Unity</h1>
-<a href="https://www.youtube.com/watch?v=h_sBWEypyRE" title="source: youtube.com" />Youtube Video Link</a>
+<p>
+<a href="https://www.youtube.com/watch?v=h_sBWEypyRE" title="source: youtube.com" />Youtube Video Link</a></p>
 <img src="https://i.imgur.com/5kGTu5i.png">
 <p>Engine/Language: Unity Engine C#</p>
 <p><a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/porfolio/update/2020/01/20/ArenaWars.html">Find Out More!</a></p>
