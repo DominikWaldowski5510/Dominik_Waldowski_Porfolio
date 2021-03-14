@@ -5,9 +5,9 @@ permalink: /cv/
 ---
 
 <body><div class="post-content">
-    <p>My name is Dominik Waldowski. I studied Computer Games Technology at <a href="https://aru.ac.uk/">Anglia Ruskin University</a>.
-	I enjoy programming gameplay as well as game systems such as inventory, turn based systems or alike. My final year project (dissertation) was based on AI and machine learning.
-	</p>
+    <h1 class="post-title">Work History</h1>
+	<p>Anglia Ruskin University 2018 </p>
+	<p>Worked on Designing and Developing a Mobile application which was used to determine Amblyopia within the eye of a child. The project originally was made as VR product however due to issues with accessibility and portability of VR kit it was then moved to online platform using simple mobile VR goggles. The aim of the project was to work along side medical expert and create application that would allow testing for amblyopia within children, the biggest difficulties of the project were keeping child engaged which is why modern methods often fail to properly identify amblyopia within a child.</p>
 	<h1 class="post-title">Education</h1>
 	<h4 class="post-title"><u>MSc in Computer Games Development</u></h4>
     <p>Anglia Ruskin University 2019 - 2020 </p>
