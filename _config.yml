@@ -21,7 +21,7 @@ baseurl: "Dominik_Waldowski_Porfolio" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DominikWaldows1
 github_username:  dominikwaldowski5510
-
+itch_io: https://ravendegames.itch.io/
 # Build settings
 markdown: kramdown
 theme: minima
