@@ -11,7 +11,6 @@ permalink: /cv/
 	<h1 class="post-title">Education</h1>
 	<h4 class="post-title"><u>MSc in Computer Games Development</u></h4>
     <p>Anglia Ruskin University 2019 - 2020 </p>
-	<p>Grade: Pending </p>
 	<ul>
 	<li>Developed stronger game development skills</li>
 	<li>Strengthened my core programming skills</li>
