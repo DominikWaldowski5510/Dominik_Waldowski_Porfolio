@@ -4,10 +4,12 @@ title: About
 permalink: /about/
 ---
   <div class="post-content">
-    <p>My name is Dominik Waldowski. I studied Computer Games Technology at <a href="https://aru.ac.uk/">Anglia Ruskin University</a> graduating October 2019.
-	    This website purpose is my digital logbook documenting my progress as programmer.</p>
+    <p>My name is Dominik Waldowski. I studied Programming/Programming within Game Engines throughout my Bachelors and Masters degree.</p>
+	<p> After graduating I started programming a lot of hobby projects in forms of tutorials I stream 5 days a week monday to friday on <a href="https://www.twitch.tv/snake551">Twitch.tv (Click me!)</a>. My streamed projects are uploaded to my github as well as my itch.io which are publically visible.
+		All links are best found via Twitch or checking my newest history of projects here: https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/
+		</p>
 <h1 class="post-title">What I do</h1>
-<p> I have programmed several games as part of my University studies. Majority of modules required me to produce a game with time span of 12 weeks.
+<p> I have programmed several small prototype games as part of my University studies. Majority of modules required me to produce a game with time span of 12 weeks.
 I participated in several game jams most notably <a href="http://www.brainseden.net/">Brains Eden 2019</a>.</p>
 <p>My porfolio can be found at <a href="https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/">here</a>. Feel free to also check out my learning progress <a href="">here</a>.</p>
 <!--<h1 class="post-title">Experience</h1>-->
