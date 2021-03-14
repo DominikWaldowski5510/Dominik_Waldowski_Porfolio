@@ -3,7 +3,6 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-
 <body><div class="post-content">
     <h1 class="post-title">Work History</h1>
 	<p>Anglia Ruskin University 2018 </p>
