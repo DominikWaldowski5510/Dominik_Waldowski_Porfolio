@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:Porfolio
+title: Dominik Waldowski Porfolio
 email: dominik.waldowski5510@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   
-baseurl: "https://dominikwaldowski5510.github.io/Dominik_Waldowski_Porfolio/" # the subpath of your site, e.g. /blog
+baseurl: "Dominik_Waldowski_Porfolio" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DominikWaldows1
 github_username:  dominikwaldowski5510
+
 # Build settings
 markdown: kramdown
 theme: minima
@@ -38,3 +39,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+© 2021 GitHub, Inc.
